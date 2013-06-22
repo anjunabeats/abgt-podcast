@@ -1,3 +1,4 @@
+fs = require 'fs'
 convert = require('data2xml')();
 shows = require './'+process.argv[2]
 
@@ -51,7 +52,10 @@ podcast =
         "itunes:keyword": keywords.join ","
         "itunes:explicit": explicit
         item:
-            shows
+            shows.map (show) ->
+                show.enclosure =
+                    _attr: show.enclosure
+                return show
 
 xmlPodcast = convert "rss", podcast
 
