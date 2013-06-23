@@ -1,5 +1,6 @@
 fs = require 'fs'
 convert = require('data2xml')();
+
 shows = require './'+process.argv[2]
 
 title = "Above & Beyond: Group Therapy"
@@ -48,7 +49,9 @@ podcast =
                 href: imageUrl
             _value: title
         category: category
-        "itunes:category": category
+        "itunes:category":
+            _attr:
+                text: category
         "itunes:keyword": keywords.join ","
         "itunes:explicit": explicit
         item:
