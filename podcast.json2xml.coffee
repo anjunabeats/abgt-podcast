@@ -62,4 +62,7 @@ podcast =
 
 xmlPodcast = convert "rss", podcast
 
-console.log xmlPodcast
+html = require 'html'
+
+console.log html.prettyPrint xmlPodcast,
+    indent_size: 2
