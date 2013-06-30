@@ -44,7 +44,8 @@ test= subprocess.check_output(['coffee', 'podcast.add.coffee',
                  '--length', length,
                  '--duration', duration,
                  '--link', link,
-                 '--category', category])
+                 '--category', category
+                 '--description', subtitle])
 
 
 
