@@ -14,7 +14,6 @@ fs.readFile process.argv[2], (err, data) ->
                 "itunes:author": show["itunes:author"][0]
                 description: show.description[0]
                 "itunes:subtitle": show["itunes:subtitle"][0]
-                summary: show["itunes:summary"][0]
                 enclosure: show.enclosure[0]["$"]
                 link: show.link[0]
                 guid: show.guid[0]

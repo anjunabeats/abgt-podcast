@@ -33,12 +33,13 @@ duration = '02:00:00'
 link = 'http://www.aboveandbeyond.nu/radio/abgt%s' % show_num
 category = 'Music'
 
-test= subprocess.check_output(['coffee', 'podcast.add.coffee',
+test= subprocess.call(['coffee', 'podcast.add.coffee',
                                '-i', 'shows.json',
                  '--guid', guid,
                  '--author', author,
                  '--title', title,
                  '--subtitle', subtitle,
+                 '--description', subtitle,
                  '--pubdate', pubdate,
                  '--url', podcast_url,
                  '--length', length,
