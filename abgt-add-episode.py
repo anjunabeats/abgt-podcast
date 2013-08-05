@@ -6,7 +6,7 @@ from optparse import OptionParser
 parser = OptionParser()
 parser.add_option('-f', '--filename', dest='filename',
                   help='ABGT podcast url', action='store')
-parser.add_option('-n', '--num', dest='show_num',
+parser.add_option('-n', '--num', type='int', dest='show_num',
                   help='ABGT number', action='store')
 parser.add_option('-g', '--guest', dest='guest_mixer',
                   help='ABGT guest mixer', action='store')
@@ -25,10 +25,10 @@ meta = urllib.urlopen(podcast_url).info()
 # get byte length of remote podcast file
 length = meta.getheaders('Content-Length')[0]
 
-guid = 'abgt%s' % options.show_num
+guid = 'abgt%03d' % options.show_num
 author = "Above & Beyond"
-title = "#%s Group Therapy Radio with Above & Beyond" % options.show_num
-subtitle = "Episode #%s / Guest Mix: %s" % (options.show_num, options.guest_mixer)
+title = "#%03d Group Therapy Radio with Above & Beyond" % options.show_num
+subtitle = "Episode #%03d / Guest Mix: %s" % (options.show_num, options.guest_mixer)
 
 today = datetime.date.today()
 friday = today + datetime.timedelta((4 - today.weekday()) % 7)
@@ -36,10 +36,10 @@ friday = today + datetime.timedelta((4 - today.weekday()) % 7)
 pubdate = '%s 21:10:00 +0100' % friday.strftime('%a, %d %b %Y')
 
 duration = '02:00:00'
-link = 'http://www.aboveandbeyond.nu/radio/abgt%s' % options.show_num
+link = 'http://www.aboveandbeyond.nu/radio/abgt%03d' % options.show_num
 category = 'Music'
 
-test= subprocess.call(['coffee', 'podcast.add.coffee',
+print subprocess.call(['coffee', 'podcast.add.coffee',
                                '-i', 'shows.json',
                        '--guid', guid,
                        '--author', author,
@@ -52,6 +52,3 @@ test= subprocess.call(['coffee', 'podcast.add.coffee',
                        '--duration', duration,
                        '--link', link,
                        '--category', category])
-
-
-print test
