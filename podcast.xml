@@ -691,5 +691,19 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
+    <item>
+      <title>#041 Group Therapy Radio with Above &amp; Beyond</title>
+      <itunes:author>Above &amp; Beyond</itunes:author>
+      <description>Episode #041 / Guest Mix: JES</description>
+      <itunes:subtitle>Episode #041 / Guest Mix: JES</itunes:subtitle>
+      <enclosure url="http://traffic.libsyn.com/tatwpodcast/ABGT041.mp3"
+      length="115485057" type="audio/mpeg"></enclosure>
+      <link>http://www.aboveandbeyond.nu/radio/abgt041</link>
+      <guid>abgt041</guid>
+      <pubDate>Fri, 16 Aug 2013 21:10:00 +0100</pubDate>
+      <category>Music</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
   </channel>
 </rss>
