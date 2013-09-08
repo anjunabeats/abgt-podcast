@@ -738,7 +738,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       <itunes:author>Above &amp; Beyond</itunes:author>
       <description>Episode #044 / Guest Mix: Dusky</description>
       <itunes:subtitle>Episode #044 / Guest Mix: Dusky</itunes:subtitle>
-      <enclosure url="http://traffic.libsyn.com/tatwpodcast/ABGT044.mp3"
+      <enclosure url="http://static.aboveandbeyond.nu/abgt/podcast/ABGT044.mp3"
       length="1233" type="audio/mpeg"></enclosure>
       <link>http://www.aboveandbeyond.nu/radio/abgt044</link>
       <guid>abgt044</guid>
