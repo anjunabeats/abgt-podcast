@@ -19,7 +19,7 @@ if options.filename is None or \
     parser.error('Missing arguments')
     
 # get http metadata from remote podcast file
-podcast_url = 'http://traffic.libsyn.com/tatwpodcast/%s' % options.filename
+podcast_url = 'http://traffic.libsyn.com/anjunabeats/%s' % options.filename
 meta = urllib.urlopen(podcast_url).info()
 
 # get byte length of remote podcast file
