@@ -789,5 +789,19 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
+    <item>
+      <title>#048 Group Therapy Radio with Above &amp; Beyond</title>
+      <itunes:author>Above &amp; Beyond</itunes:author>
+      <description>Episode #048 / Guest Mix: Andy</description>
+      <itunes:subtitle>Episode #048 / Guest Mix: Andy</itunes:subtitle>
+      <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT048.mp3"
+      length="1233" type="audio/mpeg"></enclosure>
+      <link>http://www.aboveandbeyond.nu/radio/abgt048</link>
+      <guid>abgt048</guid>
+      <pubDate>Fri, 04 Oct 2013 21:10:00 +0100</pubDate>
+      <category>Music</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
   </channel>
 </rss>
