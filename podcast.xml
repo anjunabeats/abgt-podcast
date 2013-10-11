@@ -708,8 +708,8 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <item>
       <title>#042 Group Therapy Radio with Above &amp; Beyond</title>
       <itunes:author>Above &amp; Beyond</itunes:author>
-      <description>Episode #042 / Guest Mix: Tom</description>
-      <itunes:subtitle>Episode #042 / Guest Mix: Tom</itunes:subtitle>
+      <description>Episode #042 / Guest Mix: Tom Middleton</description>
+      <itunes:subtitle>Episode #042 / Guest Mix: Tom Middleton</itunes:subtitle>
       <enclosure url="http://traffic.libsyn.com/tatwpodcast/ABGT042.mp3"
       length="1233" type="audio/mpeg"></enclosure>
       <link>http://www.aboveandbeyond.nu/radio/abgt042</link>
@@ -723,7 +723,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       <title>#043 Group Therapy Radio with Above &amp; Beyond</title>
       <itunes:author>Above &amp; Beyond</itunes:author>
       <description>Episode #043 / Guest Mix: Seven</description>
-      <itunes:subtitle>Episode #043 / Guest Mix: Seven</itunes:subtitle>
+      <itunes:subtitle>Episode #043 / Guest Mix: Seven Lions</itunes:subtitle>
       <enclosure url="http://traffic.libsyn.com/tatwpodcast/ABGT043.mp3"
       length="1233" type="audio/mpeg"></enclosure>
       <link>http://www.aboveandbeyond.nu/radio/abgt043</link>
@@ -764,16 +764,16 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <item>
       <title>#046 Group Therapy Radio with Above &amp; Beyond</title>
       <itunes:author>Above &amp; Beyond</itunes:author>
-      <description>Episode #046 / Guest Mix: Marcus</description>
-      <itunes:subtitle>Episode #046 / Guest Mix: Marcus</itunes:subtitle>
-      <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT046.mp3"
-      length="1233" type="audio/mpeg"></enclosure>
-      <link>http://www.aboveandbeyond.nu/radio/abgt046</link>
-      <guid>abgt046</guid>
-      <pubDate>Fri, 20 Sep 2013 21:10:00 +0100</pubDate>
-      <category>Music</category>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>02:00:00</itunes:duration>
+      <description>Episode #046 / Guest Mix: Marcus Schossow</description>
+      <itunes:subtitle>Episode #046 / Guest Mix: Marcus Schossow</itunes:subtitle>
+      <enclosure
+      url="http://traffic.libsyn.com/anjunabeats/ABGT046.mp3" length="1233" type="audio/mpeg"></enclosure>
+        <link>http://www.aboveandbeyond.nu/radio/abgt046</link>
+        <guid>abgt046</guid>
+        <pubDate>Fri, 20 Sep 2013 21:10:00 +0100</pubDate>
+        <category>Music</category>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:duration>02:00:00</itunes:duration>
     </item>
     <item>
       <title>#047 Group Therapy Radio with Above &amp; Beyond</title>
@@ -792,13 +792,27 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <item>
       <title>#048 Group Therapy Radio with Above &amp; Beyond</title>
       <itunes:author>Above &amp; Beyond</itunes:author>
-      <description>Episode #048 / Guest Mix: Andy</description>
+      <description>Episode #048 / Guest Mix: Andy Duguid</description>
       <itunes:subtitle>Episode #048 / Guest Mix: Andy</itunes:subtitle>
       <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT048.mp3"
       length="1233" type="audio/mpeg"></enclosure>
       <link>http://www.aboveandbeyond.nu/radio/abgt048</link>
       <guid>abgt048</guid>
       <pubDate>Fri, 04 Oct 2013 21:10:00 +0100</pubDate>
+      <category>Music</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>#049 Group Therapy Radio with Above &amp; Beyond</title>
+      <itunes:author>Above &amp; Beyond</itunes:author>
+      <description>Episode #049 / Guest Mix: Toby</description>
+      <itunes:subtitle>Episode #049 / Guest Mix: Toby</itunes:subtitle>
+      <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT049.mp3"
+      length="1233" type="audio/mpeg"></enclosure>
+      <link>http://www.aboveandbeyond.nu/radio/abgt049</link>
+      <guid>abgt049</guid>
+      <pubDate>Fri, 11 Oct 2013 21:10:00 +0100</pubDate>
       <category>Music</category>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:00:00</itunes:duration>
