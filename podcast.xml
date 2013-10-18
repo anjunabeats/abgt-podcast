@@ -817,5 +817,19 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
+    <item>
+      <title>Group Therapy Radio Guest Mix Special with Above &amp; Beyond</title>
+      <itunes:author>Above &amp; Beyond</itunes:author>
+      <description>Guest Mix Special</description>
+      <itunes:subtitle>Guest Mix Special</itunes:subtitle>
+      <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGTGuest_Mix_Special.mp3"
+      length="115202088" type="audio/mpeg"></enclosure>
+      <link>http://www.aboveandbeyond.nu/radio/abgt-guest-mix-special-2013</link>
+      <guid>abgt-guest-mix-special-2013</guid>
+      <pubDate>Fri, 18 Oct 2013 21:10:00 +0100</pubDate>
+      <category>Music</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
   </channel>
 </rss>
