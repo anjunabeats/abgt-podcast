@@ -831,5 +831,81 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
+    <item>
+      <title>#ABGT050 Group Therapy Radio with Above &amp; Beyond - Guy J</title>
+      <itunes:author>Above &amp; Beyond</itunes:author>
+      <description>Guy J live from Alexandra Palace, London - Saturday October 26</description>
+      <itunes:subtitle>Guy J live from Alexandra Palace, London - Saturday October 26</itunes:subtitle>
+      <enclosure
+      url="http://traffic.libsyn.com/anjunabeats/ABGT050_Guy_J.mp3" length="144384031"
+      type="audio/mpeg"></enclosure>
+        <link>http://www.aboveandbeyond.nu/abgt050</link>
+        <guid>ABGT050-Guy-J</guid>
+        <pubDate>Sat, 26 Oct 2013 21:00:00 +0100</pubDate>
+        <category>Music</category>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:duration>01:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>#ABGT050 Group Therapy Radio with Above &amp; Beyond - Boom Jinx</title>
+      <itunes:author>Above &amp; Beyond</itunes:author>
+      <description>Boom Jinx live from Alexandra Palace, London - Saturday October 26</description>
+      <itunes:subtitle>Boom Jinx live from Alexandra Palace, London - Saturday October 26</itunes:subtitle>
+      <enclosure
+      url="http://traffic.libsyn.com/anjunabeats/ABGT050_Boom_Jinx.mp3" length="142845945"
+      type="audio/mpeg"></enclosure>
+        <link>http://www.aboveandbeyond.nu/abgt050</link>
+        <guid>ABGT050-Boom-Jinx</guid>
+        <pubDate>Sat, 26 Oct 2013 21:00:00 +0100</pubDate>
+        <category>Music</category>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:duration>01:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>#ABGT050 Group Therapy Radio with Above &amp; Beyond - Andrew Bayer</title>
+      <itunes:author>Above &amp; Beyond</itunes:author>
+      <description>Andrew Bayer live from Alexandra Palace, London - Saturday October 26</description>
+      <itunes:subtitle>Andrew Bayer live from Alexandra Palace, London - Saturday October 26</itunes:subtitle>
+      <enclosure
+      url="http://traffic.libsyn.com/anjunabeats/ABGT050_Andrew_Bayer.mp3" length="144726765"
+      type="audio/mpeg"></enclosure>
+        <link>http://www.aboveandbeyond.nu/abgt050</link>
+        <guid>ABGT050-Andrew-Bayer</guid>
+        <pubDate>Sat, 26 Oct 2013 21:00:00 +0100</pubDate>
+        <category>Music</category>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:duration>01:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>#ABGT050 Group Therapy Radio with Above &amp; Beyond</title>
+      <itunes:author>Above &amp; Beyond</itunes:author>
+      <description>Above &amp; Beyond live from Alexandra Palace, London - Saturday October
+        26</description>
+      <itunes:subtitle>Above &amp; Beyond live from Alexandra Palace, London - Saturday October
+        26</itunes:subtitle>
+      <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT050_AB.mp3"
+      length="290787816" type="audio/mpeg"></enclosure>
+      <link>http://www.aboveandbeyond.nu/abgt050</link>
+      <guid>ABGT050-Above_and_Beyond</guid>
+      <pubDate>Sat, 26 Oct 2013 21:00:00 +0100</pubDate>
+      <category>Music</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>#ABGT050 Group Therapy Radio with Above &amp; Beyond - Arty</title>
+      <itunes:author>Above &amp; Beyond</itunes:author>
+      <description>Arty live from Alexandra Palace, London - Saturday October 26</description>
+      <itunes:subtitle>Arty live from Alexandra Palace, London - Saturday October 26</itunes:subtitle>
+      <enclosure
+      url="http://traffic.libsyn.com/anjunabeats/ABGT050_Arty.mp3" length="141616096"
+      type="audio/mpeg"></enclosure>
+        <link>http://www.aboveandbeyond.nu/abgt050</link>
+        <guid>ABGT050-Arty</guid>
+        <pubDate>Sat, 26 Oct 2013 21:00:00 +0100</pubDate>
+        <category>Music</category>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:duration>01:00:00</itunes:duration>
+    </item>
   </channel>
 </rss>
