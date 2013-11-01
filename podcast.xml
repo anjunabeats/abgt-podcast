@@ -907,5 +907,19 @@ xmlns:atom="http://www.w3.org/2005/Atom">
         <itunes:explicit>no</itunes:explicit>
         <itunes:duration>01:00:00</itunes:duration>
     </item>
+    <item>
+      <title>#051 Group Therapy Radio with Above &amp; Beyond</title>
+      <itunes:author>Above &amp; Beyond</itunes:author>
+      <description>Episode #051 / Guest Mix: Mat</description>
+      <itunes:subtitle>Episode #051 / Guest Mix: Mat</itunes:subtitle>
+      <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT051.mp3"
+      length="1233" type="audio/mpeg"></enclosure>
+      <link>http://www.aboveandbeyond.nu/radio/abgt051</link>
+      <guid>abgt051</guid>
+      <pubDate>Fri, 01 Nov 2013 21:10:00 +0100</pubDate>
+      <category>Music</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
   </channel>
 </rss>
