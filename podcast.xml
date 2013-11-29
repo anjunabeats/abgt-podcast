@@ -949,5 +949,19 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
+    <item>
+      <title>#054 Group Therapy Radio with Above &amp; Beyond</title>
+      <itunes:author>Above &amp; Beyond</itunes:author>
+      <description>Episode #054 / Guest Mix: Aruna</description>
+      <itunes:subtitle>Episode #054 / Guest Mix: Aruna</itunes:subtitle>
+      <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT054.mp3"
+      length="115489236" type="audio/mpeg"></enclosure>
+      <link>http://www.aboveandbeyond.nu/radio/abgt054</link>
+      <guid>abgt054</guid>
+      <pubDate>Fri, 29 Nov 2013 21:10:00 +0100</pubDate>
+      <category>Music</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
   </channel>
 </rss>
