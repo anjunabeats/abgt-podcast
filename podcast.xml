@@ -977,5 +977,19 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
+    <item>
+      <title>#056 Group Therapy Radio with Above &amp; Beyond</title>
+      <itunes:author>Above &amp; Beyond</itunes:author>
+      <description>Episode #056 / Guest Mix: Fon Leman</description>
+      <itunes:subtitle>Episode #056 / Guest Mix: Fon Leman</itunes:subtitle>
+      <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT056.mp3"
+      length="115263110" type="audio/mpeg"></enclosure>
+      <link>http://www.aboveandbeyond.nu/radio/abgt056</link>
+      <guid>abgt056</guid>
+      <pubDate>Fri, 06 Dec 2013 21:10:00 +0100</pubDate>
+      <category>Music</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
   </channel>
 </rss>
