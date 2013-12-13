@@ -991,5 +991,19 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
+    <item>
+      <title>#057 Group Therapy Radio with Above &amp; Beyond</title>
+      <itunes:author>Above &amp; Beyond</itunes:author>
+      <description>Episode #057 / Guest Mix: Juventa</description>
+      <itunes:subtitle>Episode #057 / Guest Mix: Juventa</itunes:subtitle>
+      <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT057.mp3"
+      length="115129813" type="audio/mpeg"></enclosure>
+      <link>http://www.aboveandbeyond.nu/radio/abgt057</link>
+      <guid>abgt057</guid>
+      <pubDate>Fri, 13 Dec 2013 21:10:00 +0100</pubDate>
+      <category>Music</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
   </channel>
 </rss>
