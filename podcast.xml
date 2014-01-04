@@ -1034,5 +1034,19 @@ xmlns:atom="http://www.w3.org/2005/Atom">
         <itunes:explicit>no</itunes:explicit>
         <itunes:duration>02:00:00</itunes:duration>
     </item>
+    <item>
+      <title>#060 Group Therapy Radio with Above &amp; Beyond</title>
+      <itunes:author>Above &amp; Beyond</itunes:author>
+      <description>Episode #060</description>
+      <itunes:subtitle>Episode #060</itunes:subtitle>
+      <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT060.mp3"
+      length="115204622" type="audio/mpeg"></enclosure>
+      <link>http://www.aboveandbeyond.nu/radio/abgt060</link>
+      <guid>abgt060</guid>
+      <pubDate>Fri, 10 Jan 2014 21:10:00 +0100</pubDate>
+      <category>Music</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
   </channel>
 </rss>
