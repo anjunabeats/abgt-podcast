@@ -1066,5 +1066,19 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
+    <item>
+      <title>#062 Group Therapy Radio with Above &amp; Beyond</title>
+      <itunes:author>Above &amp; Beyond</itunes:author>
+      <description>Episode #062 / Guest Mix: Guy</description>
+      <itunes:subtitle>Episode #062 / Guest Mix: Guy</itunes:subtitle>
+      <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT062.mp3"
+      length="1233" type="audio/mpeg"></enclosure>
+      <link>http://www.aboveandbeyond.nu/radio/abgt062</link>
+      <guid>abgt062</guid>
+      <pubDate>Fri, 17 Jan 2014 21:10:00 +0100</pubDate>
+      <category>Music</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
   </channel>
 </rss>
