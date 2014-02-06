@@ -7,14 +7,14 @@ title = "Above & Beyond: Group Therapy"
 podcastUrl = "http://tatw.co.uk/podcast.xml"
 author = "aboveandbeyond.nu"
 link = "http://www.aboveandbeyond.nu/radio"
-summary = "salut"
+summary = "Group Therapy is the weekly radio show from Above & Beyond also known as ABGT"
 language = "en"
 name = "Above & Beyond"
 copyright = "Above & Beyond"
 email = "technical@aboveandbeyond.nu"
 imageUrl = "http://tatw.co.uk/Group_Therapy_Podcast_600x600.jpg"
 category = "Music"
-keywords = ["group therapy", "above & beyond", "above and beyond", "anjuna", "anjunabeats", "anjunadeep", "oceanlab", "tranquility base"]
+keywords = ["abgt", "group therapy", "above & beyond", "above and beyond", "anjuna", "anjunabeats", "anjunadeep", "oceanlab", "tranquility base"]
 explicit = "no"
 
 podcast =
