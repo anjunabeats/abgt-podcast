@@ -1109,5 +1109,19 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
+    <item>
+      <title>#065 Group Therapy Radio with Above &amp; Beyond</title>
+      <itunes:author>Above &amp; Beyond</itunes:author>
+      <description>Episode #065 / Guest Mix: Max Freegrant</description>
+      <itunes:subtitle>Episode #065 / Guest Mix: Max Freegrant</itunes:subtitle>
+      <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT065.mp3"
+      length="1740" type="audio/mpeg"></enclosure>
+      <link>http://www.aboveandbeyond.nu/radio/abgt065</link>
+      <guid>abgt065</guid>
+      <pubDate>Fri, 07 Feb 2014 21:10:00 +0100</pubDate>
+      <category>Music</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
   </channel>
 </rss>
