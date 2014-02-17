@@ -23,6 +23,7 @@ podcast =
         version: "2.0"
         "xmlns:atom": "http://www.w3.org/2005/Atom"
     channel:
+	"itunes:new-feed-url": podcastUrl
         "atom:link":
             _attr:
                 rel: "self"
