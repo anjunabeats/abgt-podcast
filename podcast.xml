@@ -1129,9 +1129,9 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       <description>Episode #066 / Guest Mix: Estiva</description>
       <itunes:subtitle>Episode #066 / Guest Mix: Estiva</itunes:subtitle>
       <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT066.mp3"
-      length="1233" type="audio/mpeg"></enclosure>
+      length="86399568" type="audio/mpeg"></enclosure>
       <link>http://www.aboveandbeyond.nu/radio/abgt066</link>
-      <guid>abgt066</guid>
+      <guid>abgt066-1</guid>
       <pubDate>Fri, 14 Feb 2014 21:10:00 +0100</pubDate>
       <category>Music</category>
       <itunes:explicit>no</itunes:explicit>
