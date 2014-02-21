@@ -31,7 +31,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       url="http://static.aboveandbeyond.nu/grouptherapy/temp/001_Group_Therapy_with_Above__Beyond.mp3"
       length="116593450"></enclosure>
       <link>http://www.aboveandbeyond.nu/radio</link>
-      <guid>http://tatw.co.uk/001_Group_Therapy_with_Above__Beyond.mp3</guid>
+      <guid>http://traffic.libsyn.com/anjunabeats/ABGT001.mp3</guid>
       <pubDate>Wed, 14 Nov 2012 18:15:00 +0100</pubDate>
       <category>Music</category>
       <itunes:explicit>no</itunes:explicit>
@@ -1128,11 +1128,25 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       <itunes:author>Above &amp; Beyond</itunes:author>
       <description>Episode #066 / Guest Mix: Estiva</description>
       <itunes:subtitle>Episode #066 / Guest Mix: Estiva</itunes:subtitle>
-      <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT066.mp3"
-      length="86399568" type="audio/mpeg"></enclosure>
+      <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT066-fixed.mp3"
+      length="119399568" type="audio/mpeg"></enclosure>
       <link>http://www.aboveandbeyond.nu/radio/abgt066</link>
-      <guid>abgt066-1</guid>
+      <guid>http://traffic.libsyn.com/anjunabeats/ABGT066-fixed.mp3</guid>
       <pubDate>Fri, 14 Feb 2014 21:10:00 +0100</pubDate>
+      <category>Music</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>#067 Group Therapy Radio with Above &amp; Beyond</title>
+      <itunes:author>Above &amp; Beyond</itunes:author>
+      <description>Episode #067 / Guest Mix: Grum</description>
+      <itunes:subtitle>Episode #067 / Guest Mix: Grum</itunes:subtitle>
+      <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT067.mp3"
+      length="1233" type="audio/mpeg"></enclosure>
+      <link>http://www.aboveandbeyond.nu/radio/abgt067</link>
+      <guid>abgt067</guid>
+      <pubDate>Fri, 21 Feb 2014 21:10:00 +0100</pubDate>
       <category>Music</category>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:00:00</itunes:duration>
