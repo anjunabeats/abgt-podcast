@@ -3,6 +3,7 @@
 xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link rel="self" href="http://static.aboveandbeyond.nu/grouptherapy/podcast.xml"
+<itunes:new-feed-url>http://static.aboveandbeyond.nu/grouptherapy/podcast.xml</itunes:new-feed-url>
     type="application/rss+xml"></atom:link>
     <lastBuildDate>0</lastBuildDate>
     <title>Above &amp; Beyond: Group Therapy</title>
