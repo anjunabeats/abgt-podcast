@@ -4,7 +4,7 @@ convert = require('data2xml')();
 shows = require './'+process.argv[2]
 
 title = "Above & Beyond: Group Therapy"
-podcastUrl = "http://tatw.co.uk/podcast.xml"
+podcastUrl = "http://static.aboveandbeyond.nu/grouptherapy/podcast.xml"
 author = "aboveandbeyond.nu"
 link = "http://www.aboveandbeyond.nu/radio"
 summary = "Group Therapy is the weekly radio show from Above & Beyond also known as ABGT"

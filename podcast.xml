@@ -2,7 +2,8 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"
 xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link rel="self" href="http://tatw.co.uk/podcast.xml" type="application/rss+xml"></atom:link>
+    <atom:link rel="self" href="http://static.aboveandbeyond.nu/grouptherapy/podcast.xml"
+    type="application/rss+xml"></atom:link>
     <lastBuildDate>0</lastBuildDate>
     <title>Above &amp; Beyond: Group Therapy</title>
     <itunes:author>aboveandbeyond.nu</itunes:author>
