@@ -28,8 +28,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       <description>Episode 001</description>
       <itunes:subtitle>Episode 001 / Live from Bangalore, India</itunes:subtitle>
       <enclosure type="audio/mpeg"
-      url="http://static.aboveandbeyond.nu/grouptherapy/temp/001_Group_Therapy_with_Above__Beyond.mp3"
-      length="116593450"></enclosure>
+      url="http://traffic.libsyn.com/anjunabeats/ABGT001.mp3" length="116593450"></enclosure>
       <link>http://www.aboveandbeyond.nu/radio</link>
       <guid>http://traffic.libsyn.com/anjunabeats/ABGT001.mp3</guid>
       <pubDate>Wed, 14 Nov 2012 18:15:00 +0100</pubDate>
