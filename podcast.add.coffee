@@ -50,6 +50,6 @@ shows.push newShow
 output = argv.i
 output = argv.o if argv.o 
 
-fs.writeFile output, JSON.stringify(shows), (err) ->
+fs.writeFile output, JSON.stringify(shows, undefined, 2), (err) ->
     throw err if err
     console.log 'Podcast has been added succesfully'
