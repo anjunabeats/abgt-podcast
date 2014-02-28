@@ -1152,5 +1152,19 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
+    <item>
+      <title>#068 Group Therapy Radio with Above &amp; Beyond</title>
+      <itunes:author>Above &amp; Beyond</itunes:author>
+      <description>Episode #068 / Guest Mix: PROFF</description>
+      <itunes:subtitle>Episode #068 / Guest Mix: PROFF</itunes:subtitle>
+      <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT068.mp3"
+      length="115487982" type="audio/mpeg"></enclosure>
+      <link>http://www.aboveandbeyond.nu/radio/abgt068</link>
+      <guid>abgt068</guid>
+      <pubDate>Fri, 28 Feb 2014 21:10:00 +0100</pubDate>
+      <category>Music</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
   </channel>
 </rss>
