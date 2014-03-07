@@ -1166,5 +1166,19 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
+    <item>
+      <title>#069 Group Therapy Radio with Above &amp; Beyond</title>
+      <itunes:author>Above &amp; Beyond</itunes:author>
+      <description>Episode #069 / Guest Mix: Martin Roth</description>
+      <itunes:subtitle>Episode #069 / Guest Mix: Martin Roth</itunes:subtitle>
+      <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT069.mp3"
+      length="115202506" type="audio/mpeg"></enclosure>
+      <link>http://www.aboveandbeyond.nu/radio/abgt069</link>
+      <guid>abgt069</guid>
+      <pubDate>Fri, 07 Mar 2014 21:10:00 +0100</pubDate>
+      <category>Music</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
   </channel>
 </rss>
