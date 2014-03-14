@@ -1180,5 +1180,19 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
+    <item>
+      <title>#070 Group Therapy Radio with Above &amp; Beyond</title>
+      <itunes:author>Above &amp; Beyond</itunes:author>
+      <description>Episode #070 / Guest Mix: Andy Moor</description>
+      <itunes:subtitle>Episode #070 / Guest Mix: Andy Moor</itunes:subtitle>
+      <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT070.mp3"
+      length="115158621" type="audio/mpeg"></enclosure>
+      <link>http://www.aboveandbeyond.nu/radio/abgt070</link>
+      <guid>abgt070</guid>
+      <pubDate>Fri, 14 Mar 2014 21:10:00 +0100</pubDate>
+      <category>Music</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
   </channel>
 </rss>
