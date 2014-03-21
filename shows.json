@@ -1443,5 +1443,23 @@
     "category": "Music",
     "itunes:explicit": "no",
     "itunes:duration": "02:00:00"
+  },
+  {
+    "title": "#071 Group Therapy Radio with Above & Beyond",
+    "itunes:author": "Above & Beyond",
+    "description": "Episode #071 / Guest Mix: Rafael Frost",
+    "itunes:subtitle": "Episode #071 / Guest Mix: Rafael Frost",
+    "summary": null,
+    "enclosure": {
+      "url": "http://traffic.libsyn.com/anjunabeats/ABGT071.mp3",
+      "length": 115158621,
+      "type": "audio/mpeg"
+    },
+    "link": "http://www.aboveandbeyond.nu/radio/abgt071",
+    "guid": "abgt071",
+    "pubDate": "Fri, 21 Mar 2014 21:10:00 +0100",
+    "category": "Music",
+    "itunes:explicit": "no",
+    "itunes:duration": "02:00:00"
   }
 ]
