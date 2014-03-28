@@ -1461,5 +1461,23 @@
     "category": "Music",
     "itunes:explicit": "no",
     "itunes:duration": "02:00:00"
+  },
+  {
+    "title": "#072 Group Therapy Radio with Above & Beyond",
+    "itunes:author": "Above & Beyond",
+    "description": "Episode #072 / Guest Mix: Gareth_Emery",
+    "itunes:subtitle": "Episode #072 / Guest Mix: Gareth_Emery",
+    "summary": null,
+    "enclosure": {
+      "url": "http://traffic.libsyn.com/anjunabeats/ABGT072.mp3",
+      "length": 1233,
+      "type": "audio/mpeg"
+    },
+    "link": "http://www.aboveandbeyond.nu/radio/abgt072",
+    "guid": "abgt072",
+    "pubDate": "Fri, 28 Mar 2014 21:10:00 +0100",
+    "category": "Music",
+    "itunes:explicit": "no",
+    "itunes:duration": "02:00:00"
   }
 ]
