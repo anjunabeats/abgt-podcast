@@ -1479,5 +1479,23 @@
     "category": "Music",
     "itunes:explicit": "no",
     "itunes:duration": "02:00:00"
+  },
+  {
+    "title": "#073 Group Therapy Radio with Above & Beyond",
+    "itunes:author": "Above & Beyond",
+    "description": "Episode #073 / Guest Mix: Pierce_Fulton",
+    "itunes:subtitle": "Episode #073 / Guest Mix: Pierce_Fulton",
+    "summary": null,
+    "enclosure": {
+      "url": "http://traffic.libsyn.com/anjunabeats/ABGT073.mp3",
+      "length": 115202506,
+      "type": "audio/mpeg"
+    },
+    "link": "http://www.aboveandbeyond.nu/radio/abgt073",
+    "guid": "abgt073",
+    "pubDate": "Fri, 04 Apr 2014 21:10:00 +0100",
+    "category": "Music",
+    "itunes:explicit": "no",
+    "itunes:duration": "02:00:00"
   }
 ]
