@@ -1250,5 +1250,19 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
+    <item>
+      <title>#075 Group Therapy Radio with Above &amp; Beyond</title>
+      <itunes:author>Above &amp; Beyond</itunes:author>
+      <description>Episode #075 / Guest Mix: Omnia</description>
+      <itunes:subtitle>Episode #075 / Guest Mix: Omnia</itunes:subtitle>
+      <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT075.mp3"
+      length="1233" type="audio/mpeg"></enclosure>
+      <link>http://www.aboveandbeyond.nu/radio/abgt075</link>
+      <guid>abgt075</guid>
+      <pubDate>Fri, 18 Apr 2014 21:10:00 +0100</pubDate>
+      <category>Music</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
   </channel>
 </rss>
