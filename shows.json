@@ -1533,5 +1533,23 @@
     "category": "Music",
     "itunes:explicit": "no",
     "itunes:duration": "02:00:00"
+  },
+  {
+    "title": "#076 Group Therapy Radio with Above & Beyond",
+    "itunes:author": "Above & Beyond",
+    "description": "Episode #076 / Guest Mix: Shingo_Nakamura",
+    "itunes:subtitle": "Episode #076 / Guest Mix: Shingo_Nakamura",
+    "summary": null,
+    "enclosure": {
+      "url": "http://traffic.libsyn.com/anjunabeats/ABGT076.mp3",
+      "length": 1495,
+      "type": "audio/mpeg"
+    },
+    "link": "http://www.aboveandbeyond.nu/radio/abgt076",
+    "guid": "abgt076",
+    "pubDate": "Fri, 25 Apr 2014 21:10:00 +0100",
+    "category": "Music",
+    "itunes:explicit": "no",
+    "itunes:duration": "02:00:00"
   }
 ]
