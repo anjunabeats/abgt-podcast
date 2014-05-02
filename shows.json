@@ -1551,5 +1551,23 @@
     "category": "Music",
     "itunes:explicit": "no",
     "itunes:duration": "02:00:00"
+  },
+  {
+    "title": "#077 Group Therapy Radio with Above & Beyond",
+    "itunes:author": "Above & Beyond",
+    "description": "Episode #077 / Guest Mix: 16_Bit_Lolitas",
+    "itunes:subtitle": "Episode #077 / Guest Mix: 16_Bit_Lolitas",
+    "summary": null,
+    "enclosure": {
+      "url": "http://traffic.libsyn.com/anjunabeats/ABGT077.mp3",
+      "length": 1233,
+      "type": "audio/mpeg"
+    },
+    "link": "http://www.aboveandbeyond.nu/radio/abgt077",
+    "guid": "abgt077",
+    "pubDate": "Fri, 02 May 2014 21:10:00 +0100",
+    "category": "Music",
+    "itunes:explicit": "no",
+    "itunes:duration": "02:00:00"
   }
 ]
