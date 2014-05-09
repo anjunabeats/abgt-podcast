@@ -1537,8 +1537,8 @@
   {
     "title": "#076 Group Therapy Radio with Above & Beyond",
     "itunes:author": "Above & Beyond",
-    "description": "Episode #076 / Guest Mix: Shingo_Nakamura",
-    "itunes:subtitle": "Episode #076 / Guest Mix: Shingo_Nakamura",
+    "description": "Episode #076 / Guest Mix: Shingo Nakamura",
+    "itunes:subtitle": "Episode #076 / Guest Mix: Shingo Nakamura",
     "summary": null,
     "enclosure": {
       "url": "http://traffic.libsyn.com/anjunabeats/ABGT076.mp3",
@@ -1555,8 +1555,8 @@
   {
     "title": "#077 Group Therapy Radio with Above & Beyond",
     "itunes:author": "Above & Beyond",
-    "description": "Episode #077 / Guest Mix: 16_Bit_Lolitas",
-    "itunes:subtitle": "Episode #077 / Guest Mix: 16_Bit_Lolitas",
+    "description": "Episode #077 / Guest Mix: 16 Bit Lolitas",
+    "itunes:subtitle": "Episode #077 / Guest Mix: 16 Bit Lolitas",
     "summary": null,
     "enclosure": {
       "url": "http://traffic.libsyn.com/anjunabeats/ABGT077.mp3",
@@ -1566,6 +1566,24 @@
     "link": "http://www.aboveandbeyond.nu/radio/abgt077",
     "guid": "abgt077",
     "pubDate": "Fri, 02 May 2014 21:10:00 +0100",
+    "category": "Music",
+    "itunes:explicit": "no",
+    "itunes:duration": "02:00:00"
+  },
+  {
+    "title": "#078 Group Therapy Radio with Above & Beyond",
+    "itunes:author": "Above & Beyond",
+    "description": "Episode #078 / Guest Mix: Protoculture",
+    "itunes:subtitle": "Episode #078 / Guest Mix: Protoculture",
+    "summary": null,
+    "enclosure": {
+      "url": "http://traffic.libsyn.com/anjunabeats/ABGT078.mp3",
+      "length": 115206294,
+      "type": "audio/mpeg"
+    },
+    "link": "http://www.aboveandbeyond.nu/radio/abgt078",
+    "guid": "abgt078",
+    "pubDate": "Fri, 09 May 2014 21:10:00 +0100",
     "category": "Music",
     "itunes:explicit": "no",
     "itunes:duration": "02:00:00"

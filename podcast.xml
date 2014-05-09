@@ -1267,8 +1267,8 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <item>
       <title>#076 Group Therapy Radio with Above &amp; Beyond</title>
       <itunes:author>Above &amp; Beyond</itunes:author>
-      <description>Episode #076 / Guest Mix: Shingo_Nakamura</description>
-      <itunes:subtitle>Episode #076 / Guest Mix: Shingo_Nakamura</itunes:subtitle>
+      <description>Episode #076 / Guest Mix: Shingo Nakamura</description>
+      <itunes:subtitle>Episode #076 / Guest Mix: Shingo Nakamura</itunes:subtitle>
       <enclosure
       url="http://traffic.libsyn.com/anjunabeats/ABGT076.mp3" length="1495" type="audio/mpeg"></enclosure>
         <link>http://www.aboveandbeyond.nu/radio/abgt076</link>
@@ -1281,13 +1281,27 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <item>
       <title>#077 Group Therapy Radio with Above &amp; Beyond</title>
       <itunes:author>Above &amp; Beyond</itunes:author>
-      <description>Episode #077 / Guest Mix: 16_Bit_Lolitas</description>
-      <itunes:subtitle>Episode #077 / Guest Mix: 16_Bit_Lolitas</itunes:subtitle>
+      <description>Episode #077 / Guest Mix: 16 Bit Lolitas</description>
+      <itunes:subtitle>Episode #077 / Guest Mix: 16 Bit Lolitas</itunes:subtitle>
       <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT077.mp3"
       length="1233" type="audio/mpeg"></enclosure>
       <link>http://www.aboveandbeyond.nu/radio/abgt077</link>
       <guid>abgt077</guid>
       <pubDate>Fri, 02 May 2014 21:10:00 +0100</pubDate>
+      <category>Music</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>#078 Group Therapy Radio with Above &amp; Beyond</title>
+      <itunes:author>Above &amp; Beyond</itunes:author>
+      <description>Episode #078 / Guest Mix: Protoculture</description>
+      <itunes:subtitle>Episode #078 / Guest Mix: Protoculture</itunes:subtitle>
+      <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT078.mp3"
+      length="115206294" type="audio/mpeg"></enclosure>
+      <link>http://www.aboveandbeyond.nu/radio/abgt078</link>
+      <guid>abgt078</guid>
+      <pubDate>Fri, 09 May 2014 21:10:00 +0100</pubDate>
       <category>Music</category>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:00:00</itunes:duration>
