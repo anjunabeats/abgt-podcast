@@ -1306,5 +1306,19 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
+    <item>
+      <title>#079 Group Therapy Radio with Above &amp; Beyond</title>
+      <itunes:author>Above &amp; Beyond</itunes:author>
+      <description>Episode #079 / Guest Mix: Funkagenda</description>
+      <itunes:subtitle>Episode #079 / Guest Mix: Funkagenda</itunes:subtitle>
+      <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT079.mp3"
+      length="1233" type="audio/mpeg"></enclosure>
+      <link>http://www.aboveandbeyond.nu/radio/abgt079</link>
+      <guid>abgt079</guid>
+      <pubDate>Fri, 16 May 2014 21:10:00 +0100</pubDate>
+      <category>Music</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
   </channel>
 </rss>

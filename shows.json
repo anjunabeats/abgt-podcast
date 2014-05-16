@@ -1587,5 +1587,23 @@
     "category": "Music",
     "itunes:explicit": "no",
     "itunes:duration": "02:00:00"
+  },
+  {
+    "title": "#079 Group Therapy Radio with Above & Beyond",
+    "itunes:author": "Above & Beyond",
+    "description": "Episode #079 / Guest Mix: Funkagenda",
+    "itunes:subtitle": "Episode #079 / Guest Mix: Funkagenda",
+    "summary": null,
+    "enclosure": {
+      "url": "http://traffic.libsyn.com/anjunabeats/ABGT079.mp3",
+      "length": 1233,
+      "type": "audio/mpeg"
+    },
+    "link": "http://www.aboveandbeyond.nu/radio/abgt079",
+    "guid": "abgt079",
+    "pubDate": "Fri, 16 May 2014 21:10:00 +0100",
+    "category": "Music",
+    "itunes:explicit": "no",
+    "itunes:duration": "02:00:00"
   }
 ]
