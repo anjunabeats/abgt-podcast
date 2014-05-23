@@ -1320,5 +1320,19 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
+    <item>
+      <title>#080 Group Therapy Radio with Above &amp; Beyond</title>
+      <itunes:author>Above &amp; Beyond</itunes:author>
+      <description>Episode #080 / Guest Mix: Dosem</description>
+      <itunes:subtitle>Episode #080 / Guest Mix: Dosem</itunes:subtitle>
+      <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT080_38465.m4a"
+      length="1403667755" type="audio/mpeg"></enclosure>
+      <link>http://www.aboveandbeyond.nu/radio/abgt080</link>
+      <guid>abgt080</guid>
+      <pubDate>Fri, 23 May 2014 21:10:00 +0100</pubDate>
+      <category>Music</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
   </channel>
 </rss>
