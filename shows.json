@@ -1623,5 +1623,23 @@
     "category": "Music",
     "itunes:explicit": "no",
     "itunes:duration": "02:00:00"
+  },
+  {
+    "title": "#081 Group Therapy Radio with Above & Beyond",
+    "itunes:author": "Above & Beyond",
+    "description": "Episode #081 / Guest Mix: Cosmic Gate",
+    "itunes:subtitle": "Episode #081 / Guest Mix: Cosmic Gate",
+    "summary": null,
+    "enclosure": {
+      "url": "http://traffic.libsyn.com/anjunabeats/ABGT081_7842328.m4a",
+      "length": 117125767,
+      "type": "audio/mpeg"
+    },
+    "link": "http://www.aboveandbeyond.nu/radio/abgt081",
+    "guid": "abgt081",
+    "pubDate": "Fri, 30 May 2014 21:10:00 +0100",
+    "category": "Music",
+    "itunes:explicit": "no",
+    "itunes:duration": "02:00:00"
   }
 ]
