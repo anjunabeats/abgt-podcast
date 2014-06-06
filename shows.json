@@ -1641,5 +1641,23 @@
     "category": "Music",
     "itunes:explicit": "no",
     "itunes:duration": "02:00:00"
+  },
+  {
+    "title": "#082 Group Therapy Radio with Above & Beyond",
+    "itunes:author": "Above & Beyond",
+    "description": "Episode #082 / Guest Mix: Sunny_Lax",
+    "itunes:subtitle": "Episode #082 / Guest Mix: Sunny_Lax",
+    "summary": null,
+    "enclosure": {
+      "url": "http://traffic.libsyn.com/anjunabeats/ABGT082_42352345.m4a",
+      "length": 117127173,
+      "type": "audio/mpeg"
+    },
+    "link": "http://www.aboveandbeyond.nu/radio/abgt082",
+    "guid": "abgt082",
+    "pubDate": "Fri, 06 Jun 2014 21:10:00 +0100",
+    "category": "Music",
+    "itunes:explicit": "no",
+    "itunes:duration": "02:00:00"
   }
 ]

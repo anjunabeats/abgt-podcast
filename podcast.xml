@@ -1348,5 +1348,19 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>02:00:00</itunes:duration>
     </item>
+    <item>
+      <title>#082 Group Therapy Radio with Above &amp; Beyond</title>
+      <itunes:author>Above &amp; Beyond</itunes:author>
+      <description>Episode #082 / Guest Mix: Sunny_Lax</description>
+      <itunes:subtitle>Episode #082 / Guest Mix: Sunny_Lax</itunes:subtitle>
+      <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT082_42352345.m4a"
+      length="117127173" type="audio/mpeg"></enclosure>
+      <link>http://www.aboveandbeyond.nu/radio/abgt082</link>
+      <guid>abgt082</guid>
+      <pubDate>Fri, 06 Jun 2014 21:10:00 +0100</pubDate>
+      <category>Music</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>02:00:00</itunes:duration>
+    </item>
   </channel>
 </rss>
